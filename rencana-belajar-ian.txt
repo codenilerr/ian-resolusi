@@ -3,6 +3,8 @@ list tech stack yang harus dikuasai:
 - CSS3
 - Tailwind CSS
 - Javascript
+  - ES6
+- Vue JS
 - React JS
 - Next JS
 - Typescript
