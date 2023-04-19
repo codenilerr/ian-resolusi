@@ -4,3 +4,7 @@ resolusi ian:
 - belajar slicing UI
 - belajar consume API
 - melanjutkan belajar golang dan belajar membuat API
+- perbanyak latihan dan kerjakan dummy project dan real project
+- cari client untuk freelance
+- bangun personal branding di linkedin dan tiktok
+- lamar kerja di perusahaan teknologi di Indonesia dan luar negeri
