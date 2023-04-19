@@ -1,0 +1,13 @@
+list tech stack yang harus dikuasai:
+- HTML5
+- CSS3
+- Tailwind CSS
+- Javascript
+  - ES6
+- Vue JS
+- React JS
+- Next JS
+- Typescript
+- Golang
+- Gin Framework
+- Fiber Framework
