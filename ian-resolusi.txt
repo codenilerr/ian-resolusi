@@ -3,8 +3,11 @@ resolusi ian:
 - belajar HTML, CSS, Tailwind CSS, Javascript (JS), React JS, dan Next JS, dan Typescript 
 - belajar slicing UI
 - belajar consume API
+- mulai fokus lagi belajar backend web development
 - melanjutkan belajar golang dan belajar membuat API
-- perbanyak latihan dan kerjakan dummy project dan real project
 - cari client untuk freelance
 - bangun personal branding di linkedin dan tiktok
 - lamar kerja di perusahaan teknologi di Indonesia dan luar negeri
+- membangun passive income melalui platform youtube dan udemy untuk memberikan jasa layanan kelas pemrograman berbayar
+- pilih client yang menawarkan job dan project yang salary nya bagus
+
