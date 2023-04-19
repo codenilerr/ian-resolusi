@@ -1,0 +1,6 @@
+resolusi ian:
+- konsisten untuk memperdalam frontend web development
+- belajar HTML, CSS, Tailwind CSS, Javascript (JS), React JS, dan Next JS, dan Typescript 
+- belajar slicing UI
+- belajar consume API
+- melanjutkan belajar golang dan belajar membuat API
