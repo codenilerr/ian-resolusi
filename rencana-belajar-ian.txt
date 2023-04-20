@@ -16,3 +16,5 @@ list tech stack yang harus dikuasai:
 - PHP framework
   - laravel
 - Fiber Framework
+- struktur data dasar
+
