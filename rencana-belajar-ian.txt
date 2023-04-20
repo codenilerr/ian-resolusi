@@ -11,3 +11,4 @@ list tech stack yang harus dikuasai:
 - Golang
 - Gin Framework
 - Fiber Framework
+- struktur data dasar
