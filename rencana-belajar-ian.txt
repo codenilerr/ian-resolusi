@@ -4,11 +4,15 @@ list tech stack yang harus dikuasai:
 - Tailwind CSS
 - Javascript
   - ES6
+  - Framework JS
+    - Vanilla JS
+    - Meteor JS
 - Vue JS
 - React JS
 - Next JS
 - Typescript
 - Golang
 - Gin Framework
+- PHP framework
+  - laravel
 - Fiber Framework
-- struktur data dasar
